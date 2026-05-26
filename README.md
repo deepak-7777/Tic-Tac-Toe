@@ -15,7 +15,7 @@ The purpose of this project was to practice Android development and game logic i
 * Two-player gameplay
 * Turn-based play system
 * Win / Draw detection
-* Game reset option
+* Game reset option 
 
 ---
 
