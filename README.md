@@ -1,6 +1,6 @@
 # 📂 Tic-Tac-Toe Game  
 
-This repository contains my **Tic-Tac-Toe game application** built using Java and XML in Android Studio. It is a classic two-player strategy game where users compete to align their symbols in a row.
+This repository contains my **Tic-Tac-Toe game application** built using Java and XML in Android Studio. It is a classic two-player strategy game where users compete to align their symbols in a row. 
 
 ---
  
